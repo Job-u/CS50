@@ -1,11 +1,11 @@
-sort1 uses: TODO
+sort1 uses: Bubble Sort
 
-How do you know?: TODO
+How do you know?: Bubble sort performs better when the numbers are already sorted in order
 
-sort2 uses: TODO
+sort2 uses: Merge Sort
 
-How do you know?: TODO
+How do you know?: If its for large random input Merge Sort is the fastest between the other two sort
 
-sort3 uses: TODO
+sort3 uses: Selection Sort
 
-How do you know?: TODO
+How do you know?: Needs to go through the entire array looking for the smallest element every time
