@@ -1,0 +1,11 @@
+HTML Tags Used:
+nav, a, div, h1, p, button, meta, link, script, img
+
+CSS Properties Used:
+background-color, color, margin-bottom, font-size, padding
+
+Bootstrap:
+Used Bootstrap navbar and button classes for layout and styling.
+
+JavaScript:
+Used JavaScript to create an interactive alert when a button is clicked.
