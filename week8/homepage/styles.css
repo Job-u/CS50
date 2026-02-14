@@ -1,0 +1,23 @@
+body {
+    background-color: #f8f9fa;
+}
+
+h1 {
+    color: navy;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.btn {
+    font-size: 18px;
+}
+
+#alertButton {
+    padding: 10px;
+}
+
+.navbar-nav {
+    position: center;
+}
